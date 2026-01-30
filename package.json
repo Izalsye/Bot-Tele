@@ -12,6 +12,7 @@
   "dependencies": {
     "autocannon": "^8.0.0",
     "body-parser": "^2.2.2",
+    "dotenv": "^17.2.3",
     "express": "^5.2.1",
     "node-telegram-bot-api": "^0.67.0"
   }
